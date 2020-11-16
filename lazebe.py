@@ -20,9 +20,9 @@ print (red+b+"""
 
 """+b+red)
 
-print (gren+b+"            <===[[ coded by N17R0 ]]===>"+b+gren)
+print (gren+b+"            <===[[ coded by prayag dq ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"     <---( search on youtube noob hackers)--->"+b+yellow)
+print (yellow+b+"     <---( search on Instagram prayag_dq)--->"+b+yellow)
 print (" ")
 
 length=int(raw_input(cyan+b+"Enter the number of characters: "+b+cyan))
